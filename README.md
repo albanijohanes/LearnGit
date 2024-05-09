@@ -1,5 +1,5 @@
 # BIODATA
 
-Nama: Albani Boutje Johanes
-Berkuliah di UNSRAT, Jurusan Sistem Informasi
-umur 20 tahun
+Nama: Albani Boutje Johanes <br>
+Berkuliah di UNSRAT, Jurusan Sistem Informasi <br>
+umur 20 tahun <br>
